@@ -51,8 +51,8 @@
 ## Встановлення
 
 ```bash
-git clone https://github.com/<ваш-нікнейм>/ukraine-alerts-cli.git
-cd ukraine-alerts-cli
+git clone https://github.com/HACKERGROUPS/CLI-Map-Alerts
+cd CLI-Map-Alerts
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
