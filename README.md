@@ -18,7 +18,7 @@
 
 Консольний застосунок для Linux, що показує актуальні повітряні тривоги по
 областях України в реальному часі, використовуючи
-[API alerts.in.ua](https://devportal.alerts.in.ua/).
+[API alerts.in.ua](https://dev.alerts.in.ua/).
 
 Два вигляди на вибір:
 
